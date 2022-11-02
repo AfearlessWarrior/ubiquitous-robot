@@ -1,2 +1,2 @@
 # ubiquitous-robot
-a public treasure
+一休
